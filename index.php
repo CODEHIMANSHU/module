@@ -27,7 +27,7 @@
     <!--Login and sign up in container-->
     <div class="container">
       <div class="row">
-        <div class="col s5 white" style="border-radius: 10px; padding: 0px 20px 15px 10px;">
+        <div class="col s5 white" style="border-radius: 10px; padding:  0% 20px 15px 10px; margin-top: 17%">
         <!--login form-->
           <form>
             <div class="input-field">
@@ -93,7 +93,7 @@
       </div>
     </div>
     <!--footer-->
-    <div style="position: fixed; height: 30px; width: 100%;" class="center grey">
+    <div style="position: fixed; height: 30px; width: 100%; bottom: 0px;" class="center grey">
       <footer>
         Google Developers Group
       </footer>
