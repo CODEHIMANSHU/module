@@ -23,11 +23,11 @@
         </div>
       </nav>
     </div>
-    <br><br>
+    <br>
     <!--Login and sign up in container-->
     <div class="container">
       <div class="row">
-        <div class="col s5 white" style="border-radius: 10px; padding:  0% 20px 15px 10px; margin-top: 17%">
+        <div class="col s5 white" style="border-radius: 10px; padding:  0% 20px 15px 10px; margin-top: 16%">
         <!--login form-->
           <form>
             <div class="input-field">
